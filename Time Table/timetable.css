@@ -1,0 +1,31 @@
+.pub
+{
+    background-color: rgb(110, 110, 251);
+}
+.lane
+{
+    background-color: chartreuse;
+}
+.aqc
+{
+    background-color: rgb(244, 100, 177);
+}
+.aj
+{
+    background-color: deeppink;
+}
+.edu
+{
+    background-color: aqua;
+}
+.par
+{
+    background-color: brown;
+}
+.old
+{
+    background-color: coral;
+}
+tr{
+    border: 100px;
+}
